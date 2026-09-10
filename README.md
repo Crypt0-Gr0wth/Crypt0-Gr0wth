@@ -1,16 +1,14 @@
-## Hi there 👋
+# Crypt0-Gr0wth
 
-<!--
-**Crypt0-Gr0wth/Crypt0-Gr0wth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researching proof systems, confidential computation and high-integrity blockchain infrastructure.
 
-Here are some ideas to get you started:
+## Featured work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [STWO](https://github.com/Crypt0-Gr0wth/stwo/tree/dev/docs/fr) — Circle STARK, AIR, FRI and transcript review.
+- [Marlin](https://github.com/Crypt0-Gr0wth/marlin/tree/master/docs/fr) — universal SRS, AHP and SNARK verification.
+- [Concrete](https://github.com/Crypt0-Gr0wth/concrete/tree/main/docs/fr) — FHE compilation, noise and trust boundaries.
+- [Base op-enclave](https://github.com/Crypt0-Gr0wth/op-enclave/tree/main/docs/fr) — Nitro attestation and OP Stack derivation.
+- [Hyperliquid Rust SDK](https://github.com/Crypt0-Gr0wth/hyperliquid-rust-sdk/tree/master/docs/fr) — signing, orders and reconciliation.
+- [HyperEVM Block Importer](https://github.com/Crypt0-Gr0wth/block-importer/tree/main/docs/fr) — replay, idempotence and integrity.
+
+Source-grounded documentation. Security limits are explicit; no audit or production-readiness claim is implied.
