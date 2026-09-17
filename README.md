@@ -6,7 +6,7 @@ I publish source-grounded technical paths that make protocol architecture, trust
 
 ## Parcours français
 
-Le parcours documentaire français rassemble 40 chapitres sur les preuves ZK, la FHE, Base, HyperEVM et Hyperliquid. Consulter le [sommaire](docs/fr/README.md) pour suivre les contributions dans l’ordre.
+Le parcours documentaire français rassemble 67 chapitres sur les preuves ZK, la FHE, Base, HyperEVM et Hyperliquid. Consulter le [sommaire](docs/fr/README.md) pour suivre les contributions dans l’ordre.
 
 ## Current focus
 
