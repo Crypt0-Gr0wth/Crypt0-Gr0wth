@@ -42,3 +42,4 @@
 38 - [Taxonomie des erreurs](./38-erreurs.md)
 39 - [Disponibilité dégradée](./39-disponibilite.md)
 40 - [Limites du carnet](./40-limites.md)
+41 - [Décision fail-closed sur Base](./41-decision-fail-closed.md)
